@@ -1,0 +1,37 @@
+h1 {
+    background-image: image("dasmotos-arts_reline.jpeg");
+    color:khaki;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+#Frames{
+    background-color: lightcoral;
+}
+
+#Brushes{
+    background-color: mediumspringgreen;
+}
+
+#Paint{
+    background-color:skyblue;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#price{
+    color:blue;
+}
